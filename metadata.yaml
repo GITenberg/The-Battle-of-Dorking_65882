@@ -1,0 +1,20 @@
+_repo: The-Battle-of-Dorking_65882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chesney, George Tomkyns
+    gutenberg_agent_id: '53536'
+    url: http://www.gutenberg.org/2009/agents/53536
+description: ''
+gutenberg_issued: '2021-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Battle of Dorking
+url: http://www.gutenberg.org/ebooks/65882
